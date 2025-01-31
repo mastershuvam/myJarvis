@@ -1,6 +1,6 @@
-#This jarvis only for MacOs
+# This jarvis only for MacOs
 
-# Features
+## Features
 
 This module provides various features for the Jarvis assistant, including hotword detection using Porcupine and PyAudio.
 
